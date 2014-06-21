@@ -1,0 +1,7 @@
+name: atomic
+version: 0.0.2
+author: Alexander Ewetumo <trinoxf@gmail.com>
+description: providing simple object change propagator(using mirrors)
+homepage: http://github.com/influx6/atomics.dart
+dependencies:
+      hub: any
